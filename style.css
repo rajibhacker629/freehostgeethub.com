@@ -1,0 +1,44 @@
+.bg-area{
+    background-color: #313131;
+    height: 750px;
+}
+.btn-primary{
+    background-color: #ed8e5e;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}
+a.navbar-brand {
+   color: #ed8e5e;
+}
+.icon1{
+    color: #ed8e5e;
+}
+.icon{
+    background-color:  #ed8e5e;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 50%;
+}
+.bg-text{
+    position: absolute;
+    left: 5%;
+}
+.texth1{
+    font-size: 70px;
+}
+.h1text{
+    color: #ed8e5e;
+    margin: auto;
+    margin-top: -25px
+}
+.textp{
+    color: #e7e2dc;
+}
+.con{
+    padding-top: 80px;
+}
+.img{
+    position: absolute;
+    right: 5%;
+}
